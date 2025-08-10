@@ -1,13 +1,12 @@
-# 💫 Hi 👋, I'm Veer Tiwari
-**A passionate Data Scientist 
-
-Email Me 👉 ✉️ **virtiw1303@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+# 💫 Hi 👋, I'm Virat Tiwari
+**A passionate Software DEV
+Email Me 👉 ✉️ **virattiwari1801@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** private project 
 - 🌱 **I’m currently learning:** API
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** virtiw1303@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 📫 **How to reach me:** virattiwari1801@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me he he he 
 
 <!-- Snake Game Repo View -->
 
