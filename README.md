@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **virattiwari1801@gmail.com** For Collaboration/Project or 
 - 📫 **How to reach me:** virattiwari1801@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me he he he 
 
-<!-- Snake Game Repo View -->
+<!-- Snake Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
